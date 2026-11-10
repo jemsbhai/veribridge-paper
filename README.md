@@ -8,7 +8,7 @@ VeriBridge integrates JSON-LD-Ex and CBOR-LD-Ex, two extensions of JSON-LD and C
 
 ## Paper
 
-"One Graph, Two Encodings: Preserving Veracity Annotations Between JSON-LD-Ex and CBOR-LD-Ex"
+"VeriBridge: Preserving Veracity Annotations Between JSON-LD-Ex and CBOR-LD-Ex"
 Muntaser Syed, Sheikh Abujar, Marius Silaghi, Vincent Occhiogrosso, Katherine Burge, Michael Friedberg.
 Submitted to The Web Conference 2027 (WWW '27), Short Papers track (OpenReview Submission 930). Full paper due November 16, 2026.
 
