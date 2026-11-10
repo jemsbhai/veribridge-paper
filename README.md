@@ -14,6 +14,8 @@ Submitted to The Web Conference 2027 (WWW '27), Short Papers track (OpenReview S
 
 VeriBridge connects previously separate components for veracity-aware data exchange, semantic linked data, and compact linked data for constrained networks into one interoperable stack.
 
+Implementation: [github.com/jemsbhai/veribridge](https://github.com/jemsbhai/veribridge) (monorepo for the PyPI, crates.io, and npm packages).
+
 ## Status
 
 Paper in preparation. The evaluation measures round-trip fidelity, conversion overhead, and the size benefit of the binary encoding on annotated graphs representative of Web and IoT exchange.
